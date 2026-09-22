@@ -1,0 +1,8 @@
+anthropic>=1.7
+faster-whisper>=1.2
+sounddevice>=0.5
+numpy>=2.0
+pyttsx3>=2.99
+keyboard>=0.13.5
+openwakeword>=0.6
+python-dotenv>=1.0
